@@ -15,8 +15,6 @@ export const ProductsContainer = styled.div`
 export const ProductWrapper = styled.div`
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
-  margin: 0 auto;
 `;
 
 
@@ -29,7 +27,7 @@ export const ProductCard = styled.div`
 
 // stylings for the pdf images
 export const ProductImg = styled.img`
-  height: 732px;
+  height: 100%;
   min-width: 300px;
   max-width: 100%;
   box-shadow: 8px 8px #e5d5ad;

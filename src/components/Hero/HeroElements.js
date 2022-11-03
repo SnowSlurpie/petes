@@ -15,8 +15,19 @@ export const HeroContainer = styled.div`
 export const HeroContent = styled.div`
   height: calc(100vh - 80px);
   max-height: 100%;
-  width: 100vw;
+  height: 100%;
+  width: auto;
   padding: 0rem calc((100vw - 1300px) / 2);
+  display: flex;
+  flex-content: row;
+  flex-wrap: wrap;
+
+  @media screen and (max-width: 500px) {
+    
+    display: flex;
+    flex-content: row;
+    flex-wrap: wrap;
+  }
 `;
 
 // stylings for HeroP, HeroH1 and the buttonso they are oriented correctly
@@ -25,16 +36,19 @@ export const HeroItems = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
-  height: 100vh;
-  max-height: 100%;
+  height: auto;
   padding: 0 1rem;
   width: 650px;
   color: #fff;
   text-transform: uppercase;
   line-height: 1;
   font-weight: bold;
-  @media screen and (max-width: 650px) {
-    width: 100%;
+  
+  
+  @media screen and (max-width: 500px) {
+    display: flex;
+    flex-content: row;
+    flex-wrap: wrap;
   }
 `;
 
