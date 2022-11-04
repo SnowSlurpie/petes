@@ -31,6 +31,8 @@ export const ProductImg = styled.img`
   min-width: 300px;
   max-width: 100%;
   box-shadow: 8px 8px #e5d5ad;
+  flex-content:row;
+  flex-wrap:wrap;
 `;
 
 // stylings for the heading aka 'view our menu'
