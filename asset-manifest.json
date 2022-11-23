@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/petes/static/js/main.ff274547.js",
-    "static/js/787.dbb36d3a.chunk.js": "/petes/static/js/787.dbb36d3a.chunk.js",
-    "static/media/pizza-1.jpg": "/petes/static/media/pizza-1.71888e93900ef6196765.jpg",
-    "static/media/menu2.png": "/petes/static/media/menu2.5f917f45290092a36ab6.png",
-    "static/media/menu1.png": "/petes/static/media/menu1.afdc37955a5296c2641d.png",
-    "static/media/logo.png": "/petes/static/media/logo.69e42a0b416a69552c54.png",
-    "index.html": "/petes/index.html",
-    "main.ff274547.js.map": "/petes/static/js/main.ff274547.js.map",
-    "787.dbb36d3a.chunk.js.map": "/petes/static/js/787.dbb36d3a.chunk.js.map"
+    "main.js": "/www.petespizzanr.com/static/js/main.4e84c759.js",
+    "static/js/787.dbb36d3a.chunk.js": "/www.petespizzanr.com/static/js/787.dbb36d3a.chunk.js",
+    "static/media/pizza-1.jpg": "/www.petespizzanr.com/static/media/pizza-1.71888e93900ef6196765.jpg",
+    "static/media/menu2.png": "/www.petespizzanr.com/static/media/menu2.5f917f45290092a36ab6.png",
+    "static/media/menu1.png": "/www.petespizzanr.com/static/media/menu1.afdc37955a5296c2641d.png",
+    "static/media/logo.png": "/www.petespizzanr.com/static/media/logo.69e42a0b416a69552c54.png",
+    "index.html": "/www.petespizzanr.com/index.html",
+    "main.4e84c759.js.map": "/www.petespizzanr.com/static/js/main.4e84c759.js.map",
+    "787.dbb36d3a.chunk.js.map": "/www.petespizzanr.com/static/js/787.dbb36d3a.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.ff274547.js"
+    "static/js/main.4e84c759.js"
   ]
 }
